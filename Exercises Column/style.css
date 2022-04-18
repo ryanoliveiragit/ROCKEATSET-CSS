@@ -1,0 +1,24 @@
+div {
+    margin-right: 1rem;
+}
+.coluna1 {
+    background-color: antiquewhite;
+    width: 25%;
+    height: 90vh;
+    margin: 1rem;
+    border: 1px solid rgb(53, 53, 53);
+}
+
+.coluna2 {
+    background-color: rgb(250, 215, 215);
+    width: 100%;
+    height: 90vh;
+    margin: 1rem;
+    border: 1px solid rgb(37, 37, 37);
+}
+
+main {
+    display: flex;
+    margin: 1rem;
+    border: 1px solid black;
+}

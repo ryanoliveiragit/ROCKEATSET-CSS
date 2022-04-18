@@ -1,0 +1,12 @@
+main { 
+    display: flex;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div {
+    border: 1px solid black;
+    width: 30%;
+    height: 200px;
+}
